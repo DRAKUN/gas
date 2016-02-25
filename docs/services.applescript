@@ -60,7 +60,9 @@ Les amortisseurs comptent parmi les éléments incontournables de sécurité de 
 
 =======================================================================================
 Climatisation
-Comme toutes les fonctions de votre véhicule, votre climatisation mérite un entretien régulier. Une climatisation automobile qui a besoin d'être révisée présente des symptômes : panne de circuit de climatisation, surconsommation, air soufflé pas ...
+Comme toutes les fonctions de votre véhicule, votre climatisation mérite un entretien régulier.
+Une climatisation automobile qui a besoin d'être révisée présente des symptômes : panne de circuit
+de climatisation, surconsommation, air soufflé pas ...
 
 =======================================================================================
 Echappement
@@ -68,7 +70,9 @@ Votre pot d'échappement joue un rôle non négligeable dans votre voiture. Il r
 
 =======================================================================================
 Geometrie (Parallélisme)
-S'assurer du parallélisme, du réglage de votre train avant ou de la géométrie de l'ensemble de vos roues, peut s'effectuer après un choc, même minime, (comme une montée de trottoir un peu rude) et fait partie des contrôles indispensables à la suite de chocs plus violents.
+S'assurer du parallélisme, du réglage de votre train avant ou de la géométrie de l'ensemble de vos roues,
+ peut s'effectuer après un choc, même minime, (comme une montée de trottoir un peu rude) et fait partie
+ des contrôles indispensables à la suite de chocs plus violents.
 
 =======================================================================================
 Mecanique Générale
